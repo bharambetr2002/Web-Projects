@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+.rec {
+  height: 22px;
+  width: 200px;
+  border-radius: 20px;
+
+  border: 2px solid green;
+  margin: 3px;
+  text-align: center;
+  margin-top: auto;
+}
+
+body {
+  background-color: bisque;
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+}
